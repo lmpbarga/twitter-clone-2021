@@ -1,7 +1,9 @@
 # twitter-clone-2021
 ## Stacks, Technology and Patterns
-- webpack5 :heavy_check_mark:
+- react :heavy_check_mark:
+- webpack5module-federation :heavy_check_mark:
+- module-federation:heavy_check_mark:
 - storybook
-- react-with-atomic-design
+- atomic-design
 - jest-with-testing library
 - cypress
