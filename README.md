@@ -3,7 +3,16 @@
 - react :heavy_check_mark:
 - webpack5module-federation :heavy_check_mark:
 - module-federation:heavy_check_mark:
-- storybook
 - atomic-design
+- storybook
 - jest-with-testing library
 - cypress
+
+## Atomic design
+Is a methodology composed of five distinct stages working together to create interface design systems in a more deliberate and hierarchical manner. The five stages of atomic design are:
+
+1. Atoms
+2. Molecules
+3. Organisms
+4. Templates
+5. Pages

@@ -1,5 +1,12 @@
 import React from 'react';
+import Login from './pages/Login';
 
-export default () => (
-  <div>Hello World</div>
+const App = () => (
+  <>
+   <div>Hello World</div>
+   <Login />
+  </>
+ 
 );
+
+export default App
